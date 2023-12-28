@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "491061260039",
+    "firebase_url": "https://authtutorial-fe146-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "authtutorial-fe146",
+    "storage_bucket": "authtutorial-fe146.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491061260039:android:9f8b5fc81bd8831eb1dfa2",
+        "android_client_info": {
+          "package_name": "com.example.loginapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUasLv_kqDqiN9gsNVFWH3VFZrEqZpUsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
